@@ -1,6 +1,6 @@
 # 🎓 Student Performance Prediction using Machine Learning
 
-This project uses **Python and Machine Learning** to analyze and predict student performance based on study habits, demographics, and background data. It also visualizes the results using insightful charts.
+This project uses **Python and Machine Learning** to analyze and predict student performance based on study habits, demographics, and background data. It also visualizes the results using insightful charts. Data Set taken from Kaggle.
 
 ---
 
